@@ -1,0 +1,10 @@
+C:\Users\olque\source\repos\AgendaElectronicaWF\AgendaElectronicaWF\bin\Debug\AgendaElectronicaWF.exe.config
+C:\Users\olque\source\repos\AgendaElectronicaWF\AgendaElectronicaWF\bin\Debug\AgendaElectronicaWF.exe
+C:\Users\olque\source\repos\AgendaElectronicaWF\AgendaElectronicaWF\bin\Debug\AgendaElectronicaWF.pdb
+C:\Users\olque\source\repos\AgendaElectronicaWF\AgendaElectronicaWF\obj\Debug\AgendaElectronicaWF.csproj.AssemblyReference.cache
+C:\Users\olque\source\repos\AgendaElectronicaWF\AgendaElectronicaWF\obj\Debug\AgendaElectronicaWF.Form1.resources
+C:\Users\olque\source\repos\AgendaElectronicaWF\AgendaElectronicaWF\obj\Debug\AgendaElectronicaWF.Properties.Resources.resources
+C:\Users\olque\source\repos\AgendaElectronicaWF\AgendaElectronicaWF\obj\Debug\AgendaElectronicaWF.csproj.GenerateResource.cache
+C:\Users\olque\source\repos\AgendaElectronicaWF\AgendaElectronicaWF\obj\Debug\AgendaElectronicaWF.csproj.CoreCompileInputs.cache
+C:\Users\olque\source\repos\AgendaElectronicaWF\AgendaElectronicaWF\obj\Debug\AgendaElectronicaWF.exe
+C:\Users\olque\source\repos\AgendaElectronicaWF\AgendaElectronicaWF\obj\Debug\AgendaElectronicaWF.pdb
